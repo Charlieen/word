@@ -1,0 +1,23 @@
+.container{
+    margin-top: 20px;
+}
+
+.container .search{
+    -webkit-appearance: none;
+    border:none;
+    outline:none;
+    padding:10px;
+    widows: 200px;
+    line-height: 30px;
+    margin-bottom: 30px;
+    border-radius: 2px;
+    font-size: 2rem;
+}
+.container .label{
+    font-size: 2rem;
+}
+h1{
+    font-family: 'Bigelow Rules';
+    font-size:72px;
+    color:#0ccac4;
+  }
