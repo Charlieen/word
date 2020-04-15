@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Charlieen/word/static/css/main.761506d3.chunk.css",
+    "main.js": "/Charlieen/word/static/js/main.0f7b27c8.chunk.js",
+    "main.js.map": "/Charlieen/word/static/js/main.0f7b27c8.chunk.js.map",
+    "runtime-main.js": "/Charlieen/word/static/js/runtime-main.bffb6cf7.js",
+    "runtime-main.js.map": "/Charlieen/word/static/js/runtime-main.bffb6cf7.js.map",
+    "static/js/2.605acde9.chunk.js": "/Charlieen/word/static/js/2.605acde9.chunk.js",
+    "static/js/2.605acde9.chunk.js.map": "/Charlieen/word/static/js/2.605acde9.chunk.js.map",
+    "index.html": "/Charlieen/word/index.html",
+    "precache-manifest.75b9eb2a560607612c1e80ad071eca7f.js": "/Charlieen/word/precache-manifest.75b9eb2a560607612c1e80ad071eca7f.js",
+    "service-worker.js": "/Charlieen/word/service-worker.js",
+    "static/css/main.761506d3.chunk.css.map": "/Charlieen/word/static/css/main.761506d3.chunk.css.map",
+    "static/js/2.605acde9.chunk.js.LICENSE.txt": "/Charlieen/word/static/js/2.605acde9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Charlieen/word/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bffb6cf7.js",
+    "static/js/2.605acde9.chunk.js",
+    "static/css/main.761506d3.chunk.css",
+    "static/js/main.0f7b27c8.chunk.js"
+  ]
+}
